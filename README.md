@@ -1,2 +1,1 @@
-# the-terraform-workshop
-Samples of Terraform configurations and Infrastructure as Code
+Spin up a Docker Container for and nginx server using Terraform
